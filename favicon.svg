@@ -35,16 +35,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
      id="namedview33"
      showgrid="false"
      inkscape:zoom="3.6875"
      inkscape:cx="31.398438"
      inkscape:cy="13.494141"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg31" />
   <defs
      id="defs21">
@@ -156,5 +156,5 @@
      font-size="20"
      font-weight="900"
      id="text29"
-     style="font-weight:900;font-size:20px;font-family:Arial, sans-serif;text-anchor:middle;fill:url(#textGrad);stroke:#776e65;stroke-width:0.30000001;filter:url(#glow)">2048</text>
+     style="font-weight:900;font-size:20px;font-family:Arial, sans-serif;text-anchor:middle;fill:#241c1c;stroke:#776e65;stroke-width:0.30000001;filter:url(#glow);">2048</text>
 </svg>
